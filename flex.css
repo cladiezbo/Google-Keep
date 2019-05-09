@@ -1,0 +1,23 @@
+header{   
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+header section{
+  display: flex; 
+}
+header section a{
+  display: flex; 
+}
+
+main section{
+  display: flex;
+  justify-content: space-between;
+}
+aside label{
+  display: flex;
+   
+}
+aside section a{
+  display: flex;
+}
